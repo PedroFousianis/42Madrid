@@ -1,0 +1,5 @@
+Credentials cache: API:1B716E2A-97A0-4613-82A7-2223D8B4C318
+        Principal: pfousian@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 23 09:43:06 2021  Nov 23 19:43:06 2021  krbtgt/42MADRID.COM@42MADRID.COM
